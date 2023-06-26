@@ -56,7 +56,7 @@ $(document).ready(() => {
   for (let i in links) {
     let link = links[i];
 
-    $('#marquee').append(`<a href="https://swazypooh.netlify.app/${link.link}" target="_BLANK">${link.name}</a>`);
+    $('#marquee').append(`<a href="https://locate.rip/${link.link}" target="_BLANK">${link.name}</a>`);
 
     link = $('#marquee').children('a').last();
 
