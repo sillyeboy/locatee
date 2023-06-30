@@ -48,8 +48,8 @@ $(document).ready(() => {
       link: 'HaVen',
     },
     {
-      name: '@gram',
-      link: 'gram',
+      name: '@chronic',
+      link: 'chronic',
     },
   ];
 
