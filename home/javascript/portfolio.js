@@ -1,31 +1,4 @@
-/*
 
-Credits:
-    - Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
-    - expl0it, shellcode.team
-    - Steam (emoticon: https://steamcommunity-a.akamaihd.net/economy/emoticon/mgh_17)
-    - Trollface image (http://www.rw-designer.com/icon-image/7835-256x256x32.png)
-    - Tumblr images/icons:
-        a) https://68.media.tumblr.com/730ba51e7f6b0203e023deeb0db8367b/tumblr_osgbbiLXWV1suieauo1_500.jpg
-        b) https://68.media.tumblr.com/8436227895295acecdea170b612fb766/tumblr_nxgg5bYqm81rclv0wo1_500.jpg
-        c) http://images.neon-sign.org/l-m/rose-flower-love-neon-sign.jpg
-        d) https://media.istockphoto.com/vectors/rose-neon-sign-vector-id1088857104?k=6&m=1088857104&s=612x612&w=0&h=ZJCYow5i8noF6nTGHEd6b2bbe9X6rVx4cLDoceexAec=
-        e) https://image.freepik.com/free-vector/polygonal-geometric-rose-neon-sign_1262-19626.jpg
-        f) https://68.media.tumblr.com/49394d5aa66d4c7ea4ffebda38c6be7e/tumblr_orv2rd9eVC1rgewhto1_400.gif
-        g) https://ih1.redbubble.net/image.268210271.5200/sticker,375x360-bg,ffffff.u2.png
-        h) http://picture-cdn.wheretoget.it/ot63b4-l-610x610-shirt-rose-tumblr-grunge-grunge+t+shirt-clothes-t+shirt-tumblr+shirt-dead+roses-black+bear-soft+grunge-soft-soft+ghetto-ghetto-chill-cute-white-red-red+roses-white+tee-pale-sad-dar.jpg
-
-Thanks for:
-    - Google
-    - StackOverflow
-    - jQuery
-    - jQuery Marquee
-    - animate.css
-    - typed.js
-
-GitHub: https://github.com/Lumm1t/obnoxious.club
-
-*/
 
 'use strict';
 
@@ -44,12 +17,12 @@ $(document).ready(() => {
       link: 's',
     },
     {
-      name: '@haven',
-      link: 'HaVen',
+      name: '@jerry',
+      link: 'jer',
     },
     {
-      name: '@chronic',
-      link: 'chronic',
+      name: '@Garfield',
+      link: 'garfield',
     },
   ];
 
