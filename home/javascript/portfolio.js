@@ -21,7 +21,7 @@ $(document).ready(() => {
       link: 'jer',
     },
     {
-      name: '@Garfield',
+      name: '@garfield',
       link: 'garfield',
     },
   ];
