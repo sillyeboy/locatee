@@ -40,7 +40,7 @@ i{
     animation: down 2s;
     border-radius: 100%;
     object-fit: cover;
-    border: 10px solid #201f1f38;
+    border: 0px solid #201f1f38;
     display: block;
     margin-left: auto;
     margin-right: auto;
