@@ -9,20 +9,20 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: '@zai',
-      link: 'info',
-    },
-    {
       name: '@swaz',
-      link: 's',
+      link: 'x',
     },
     {
-      name: '@jerry',
-      link: 'jer',
+      name: '@net',
+      link: 'network',
     },
     {
-      name: '@lames',
-      link: 'garfield',
+      name: '@tear',
+      link: 'tear',
+    },
+    {
+      name: '@strive',
+      link: 'strive',
     },
   ];
 
