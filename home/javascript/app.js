@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['/locate on top', 'we up', 'public party', '⛧'];
+  brandDescription = ['/locate on top', 'we up', 'lords over all', '⛧'];
 }
 
 const app = new _app();
