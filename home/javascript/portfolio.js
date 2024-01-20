@@ -24,6 +24,10 @@ $(document).ready(() => {
       name: '@strive',
       link: 'strive',
     },
+    {
+      name: '@draco',
+      link: 'd',
+    },
   ];
 
   for (let i in links) {
