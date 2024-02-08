@@ -39,6 +39,8 @@
         <div class="container">
             <img class="pfp-image" src="images/PFP.JPG" alt="pfp">
             <p class="username" style="color:#ffffff"><span class="sparkle">rival</span></p>
+                  </p><h4><span id="bio">/eject</span><span id="pipe">|</span></h4>
+          <script>function sleep(e){return new Promise((s=>setTimeout(s,e)))}const phrases=["/eject","rival","obsequence"],el=document.getElementById("bio");let sleepTime=100,curPhraseIndex=0;const writeLoop=async()=>{for(;;){let e=phrases[curPhraseIndex];console.log(e);for(let s=0;s<e.length;s++)el.innerText=e.substring(0,s+1),await sleep(sleepTime);await sleep(10*sleepTime);for(let s=e.length;s>0;s--)el.innerText=e.substring(0,s-1),await sleep(sleepTime);await sleep(5*sleepTime),curPhraseIndex===phrases.length-1?curPhraseIndex=0:curPhraseIndex++}};writeLoop()</script>
             <p class="badges"><img class="badge" src="images/badge.png" title="MOTION"></p>
             <div class="socials">
                 <div class="tooltip"><a target="_blank" href="https://discord.com/users/977307034657648690"><i class="fa-brands fa-discord social-icons"></i></a></div>
